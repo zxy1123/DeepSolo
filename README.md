@@ -1,5 +1,7 @@
 <h1 align="center">Fork from DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting</h1> 
 
+I give a cpu inference version for deformable attention ， now by using the cpu version you can use this model and weghts whitout cuda
+
 <p align="center">
   <a href="#News">News</a> |
   <a href="#Main Results">Main Results</a> |
