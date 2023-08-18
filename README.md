@@ -1,4 +1,4 @@
-<h1 align="center">DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting</h1> 
+<h1 align="center">Fork from DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting</h1> 
 
 <p align="center">
   <a href="#News">News</a> |
